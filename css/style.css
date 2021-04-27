@@ -52,7 +52,7 @@ position: absolute;
       font-family: 'Roboto', sans-serif;
   }
   .z{
-    background-image: url("/image/johan4.jpg");
+    background-image: url("../image/johan4.jpg");
     
     
     filter: blur(7px);
@@ -66,7 +66,7 @@ position: absolute;
     background-size: cover;
   }
   .m{
-    background-image: url("/image/johan7.jpg");
+    background-image: url("../image/johan7.jpg");
     
     
     filter: blur(7px);
@@ -80,7 +80,7 @@ position: absolute;
     background-size: cover;
   }
   .n{
-    background-image: url("/image/johan6.jpg");
+    background-image: url("../image/johan6.jpg");
     
     
     filter: blur(7px);
@@ -152,7 +152,7 @@ a{
       font-family: 'Roboto', sans-serif;
 }
 .r{
-    background-image: url("/image/johan8.jpg");
+    background-image: url("../image/johan8.jpg");
     
     
     filter: blur(3px);
