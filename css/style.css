@@ -1,0 +1,191 @@
+
+  
+  .bg-image {
+    
+    background-image: url("/image/johan2.jpg");
+    
+    
+    filter: blur(3px);
+    
+    
+    height: 100%; 
+    
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+ 
+  .bg-text {
+    
+    color: white;
+   font-weight: lighter;
+    border: 9px solid #5f3e3e;
+position: absolute;
+ top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px red;
+  }
+  .y{
+    color:yellow;
+    font-weight: lighter;
+     border: 5px solid #ebe7e7;
+      position: absolute;
+    top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    
+     width: 50%;
+     padding: 20px;
+     
+     border-top-left-radius: 70px;
+      border-bottom-right-radius: 70px; 
+      text-align: justify;
+      text-indent: 50px;
+      text-shadow: 2px 2px 10px red;
+      font-family: 'Roboto', sans-serif;
+  }
+  .z{
+    background-image: url("/image/johan4.jpg");
+    
+    
+    filter: blur(7px);
+    
+    
+    height: 80%; 
+    
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .m{
+    background-image: url("/image/johan7.jpg");
+    
+    
+    filter: blur(7px);
+    
+    
+    height: 80%; 
+    
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .n{
+    background-image: url("/image/johan6.jpg");
+    
+    
+    filter: blur(7px);
+    
+    
+    height: 80%; 
+    
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .o{
+    color:yellow;
+    font-weight: lighter;
+     border: 5px solid #ebe7e7;
+ position: absolute;
+  top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    
+     width: 50%;
+     padding: 20px;
+     text-align: center;
+     border-top-left-radius: 70px;
+      border-bottom-right-radius: 70px; 
+      text-align: justify;
+      text-indent: 50px;
+      text-shadow: 2px 2px 10px red;
+      font-family: 'Antonio', sans-serif;
+  }
+
+   
+
+
+a{
+    
+  
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+    margin-top: 200px;
+    text-decoration: none;
+    background-color: #1e272e;
+    color: aliceblue;
+   
+
+}
+.q{
+    color:black;
+    font-weight: lighter;
+     border: 5px solid #ebe7e7;
+ position: absolute;
+  top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    
+     width: 25%;
+     padding: 24px;
+     text-align: center;
+     border-top-left-radius: 70px;
+      border-bottom-right-radius: 70px; 
+      text-align: justify;
+      text-indent: 50px;
+      text-shadow: 2px 2px 10px red;
+      font-family: 'Roboto', sans-serif;
+}
+.r{
+    background-image: url("/image/johan8.jpg");
+    
+    
+    filter: blur(3px);
+    
+    
+    height: 80%; 
+    
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.s{
+    color:black;
+    font-weight: lighter;
+    
+ position: absolute;
+  top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+    
+     width: 25%;
+     padding: 24px;
+     text-align: center;
+     border-top-left-radius: 70px;
+      border-bottom-right-radius: 70px; 
+      text-align: justify;
+      text-indent: 50px;
+      text-shadow: 2px 2px 10px red;
+      font-family: 'Roboto', sans-serif;
+}
+.w{
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    font-size: 15px;
+}
