@@ -2,7 +2,7 @@
   
   .bg-image {
     
-    background-image: url("/image/johan2.jpg");
+    background-image: url("../image/johan2.jpg");
     
     
     filter: blur(3px);
